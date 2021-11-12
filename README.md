@@ -49,6 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Integrating GitHub Actions with Telegram, Slack & WhatsApp](https://www.youtube.com/watch?v=b_LaFl47Xnw)
 - [Swift Student Challenge Winner 2021 - João Padilha 🇧🇷](https://www.youtube.com/watch?v=lMPniwHhUj0&t=1s)
 <!-- YOUTUBE:END -->
 
@@ -59,6 +60,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como integrar GitHub Actions com Slack, Telegram e WhatsApp](https://medium.com/digitalproductsdev/como-integrar-github-actions-com-slack-telegram-e-whatsapp-cd3f9b91822f)
 - [Sign In With Apple na prática](https://medium.com/digitalproductsdev/sign-in-with-apple-na-prática-b1c011f8ab75)
 - [Real time client-server communication with Socket.IO](https://medium.com/cocoaacademymag/real-time-client-server-communication-with-socket-io-4311a79b0553)
 - [Comunicação cliente-servidor em tempo real com Socket.IO](https://medium.com/digitalproductsdev/comunicação-cliente-servidor-em-tempo-real-com-socket-io-9d3930484b80)
