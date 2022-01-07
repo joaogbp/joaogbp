@@ -49,6 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SwiftUI Property Wrappers Simplified](https://www.youtube.com/watch?v=O0NFRfY4uPA)
 - [Integrating GitHub Actions with Telegram, Slack & WhatsApp](https://www.youtube.com/watch?v=b_LaFl47Xnw)
 - [Swift Student Challenge Winner 2021 - João Padilha 🇧🇷](https://www.youtube.com/watch?v=lMPniwHhUj0&t=1s)
 <!-- YOUTUBE:END -->
