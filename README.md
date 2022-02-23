@@ -61,7 +61,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate GitHub Actions with Slack, Telegram andWhatsApp
+- [How to integrate GitHub Actions with Slack, Telegram and WhatsApp
 ](https://medium.com/cocoaacademymag/how-to-integrate-github-actions-with-slack-telegram-and-whatsapp-67a4dca0f17d)
 - [Como integrar GitHub Actions com Slack, Telegram e WhatsApp](https://medium.com/digitalproductsdev/como-integrar-github-actions-com-slack-telegram-e-whatsapp-cd3f9b91822f)
 - [Sign In With Apple na prática](https://medium.com/digitalproductsdev/sign-in-with-apple-na-prática-b1c011f8ab75)
