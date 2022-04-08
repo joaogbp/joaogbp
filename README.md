@@ -61,12 +61,18 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🇺🇸 SwiftUI Property Wrappers Simplified](https://medium.com/cocoaacademymag/swiftui-property-wrappers-simplified-c301813691db)
+- [🇧🇷 SwiftUI Property Wrappers Simplificado](https://medium.com/digitalproductsdev/swiftui-property-wrappers-simplificado-531f7f50bcc1)
+
 - [🇺🇸 How to integrate GitHub Actions with Slack, Telegram and WhatsApp
 ](https://medium.com/cocoaacademymag/how-to-integrate-github-actions-with-slack-telegram-and-whatsapp-67a4dca0f17d)
 - [🇧🇷 Como integrar GitHub Actions com Slack, Telegram e WhatsApp](https://medium.com/digitalproductsdev/como-integrar-github-actions-com-slack-telegram-e-whatsapp-cd3f9b91822f)
+
 - [🇧🇷 Sign In With Apple na prática](https://medium.com/digitalproductsdev/sign-in-with-apple-na-prática-b1c011f8ab75)
+
 - [🇺🇸 Real time client-server communication with Socket.IO](https://medium.com/cocoaacademymag/real-time-client-server-communication-with-socket-io-4311a79b0553)
 - [🇧🇷 Comunicação cliente-servidor em tempo real com Socket.IO](https://medium.com/digitalproductsdev/comunicação-cliente-servidor-em-tempo-real-com-socket-io-9d3930484b80)
+
 - [🇺🇸 Introduction and implementation of Drag & Drop in iOS](https://medium.com/mackmobile/introduction-and-implementation-of-drag-drop-in-a-ios-d3b66dae516b)
 - [🇧🇷 Introdução ao Firebase](https://medium.com/mackmobile/introdução-ao-firebase-64090f07f3f)
 <!-- BLOG-POST-LIST:END -->
